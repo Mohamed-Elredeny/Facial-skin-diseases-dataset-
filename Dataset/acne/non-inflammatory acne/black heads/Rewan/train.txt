@@ -1,0 +1,12 @@
+data/obj_train_data/black9.jpg
+data/obj_train_data/black8.jpg
+data/obj_train_data/black7.jpg
+data/obj_train_data/black6.jpg
+data/obj_train_data/black5.jpg
+data/obj_train_data/black4.jpg
+data/obj_train_data/black3.jpg
+data/obj_train_data/black2.jpg
+data/obj_train_data/black12.jpg
+data/obj_train_data/black11.jpg
+data/obj_train_data/black10.jpg
+data/obj_train_data/black1.jpg
