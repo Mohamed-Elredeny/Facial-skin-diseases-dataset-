@@ -1,0 +1,750 @@
+  {
+  "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F0.jpg?alt=media&token=500b3796-fdfb-43db-b59c-25d88e0bab7b",
+  "annotation": [
+    {
+      "label": [
+        "blackheads"
+      ],
+      "notes": "",
+      "points": [
+        {
+          "x": 0.505400,
+          "y": 0.500925
+        }
+      ],
+      "imageWidth": 400,
+      "imageHeight": 400
+    }
+  ],
+  "extras": null
+}
+  {
+  "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F1.png?alt=media&token=bbcb3dbe-5fb0-4d55-aab2-6519463062cd",
+  "annotation": [
+    {
+      "label": [
+        "blackheads"
+      ],
+      "notes": "",
+      "points": [
+        {
+          "x": 0.440718,
+          "y": 0.877500
+        },
+        {
+          "x": 0.486141,
+          "y": 0.517179
+        },
+        {
+          "x": 0.116641,
+          "y": 0.476286
+        },
+        {
+          "x": 0.384205,
+          "y": 0.379839
+        },
+        {
+          "x":  0.256244,
+          "y": 0.473179
+        },
+        {
+          "x": 0.964218,
+          "y": 0.581982
+        },
+        {
+          "x": 0.734333,
+          "y":0.666857
+        },
+        {
+          "x": 0.883897,
+          "y":0.956214
+        },
+        {
+          "x": 0.916577,
+          "y":0.954679
+        }
+      ],
+      "imageWidth": 390,
+      "imageHeight": 280
+    }
+  ],
+  "extras": null
+}
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F2.jpg?alt=media&token=af3af906-7bde-4512-892f-28daefd1bd4b",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.387535,
+            "y": 0.548745
+          },
+          {
+            "x": 0.199060,
+            "y":0.672978
+          },
+          {
+            "x": 0.286506,
+            "y": 0.662951
+          },
+          {
+            "x":  0.498342,
+            "y": 0.839639
+          },
+          {
+            "x":  0.718316,
+            "y": 0.980072
+          }
+        ],
+        "imageWidth": 787,
+        "imageHeight": 554
+      }
+    ],
+    "extras": null
+  }
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F3.jpg?alt=media&token=75819e01-0870-4554-85f3-512b9c09aeb9",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.526938,
+            "y": 0.496154
+          }
+
+        ],
+        "imageWidth": 258,
+        "imageHeight": 195
+      }
+    ],
+    "extras": null
+  }
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F4.jpg?alt=media&token=72419828-e4cb-4039-aec8-9a569d096238",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.562170,
+            "y": 0.482372
+          },
+          {
+            "x": 0.607900,
+            "y":0.571877
+          },
+          {
+            "x":0.426500,
+            "y": 0.768634
+          },
+          {
+            "x": 0.476860,
+            "y":0.490856
+          },
+          {
+            "x": 0.661340,
+            "y":0.682207
+          }
+        ,
+          {
+            "x": 0.424960,
+            "y":0.323408
+          }
+        ],
+        "imageWidth": 500,
+        "imageHeight": 333
+      }
+    ],
+    "extras": null
+  }
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F5.jpg?alt=media&token=bae620f8-2920-44ef-be4d-5e5a331dec72",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.519550,
+            "y":0.294925
+          },
+          {
+            "x":0.516467,
+            "y":0.497850
+          },
+          {
+            "x":0.310133,
+            "y":0.348150
+          }
+        ],
+        "imageWidth": 300,
+        "imageHeight": 200
+      }
+    ],
+    "extras": null
+  }
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F6.jpg?alt=media&token=70330fb6-d5b1-4029-bd92-69501ea00b55",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.494186,
+            "y":0.511795
+          }
+        ],
+        "imageWidth": 258,
+        "imageHeight": 195
+      }
+    ],
+    "extras": null
+  }
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F7.jpg?alt=media&token=713de1c2-a8fb-457a-b28d-d201c79c9600",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.278436,
+            "y":0.644774
+          },
+          {
+            "x":0.420991,
+            "y":0.707372
+          }
+        ],
+        "imageWidth": 1908,
+        "imageHeight": 1615
+      }
+    ],
+    "extras": null
+  }
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F8.jpg?alt=media&token=9bc77ed0-810c-461b-ba1c-c26c89cb738e",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.592059,
+            "y":0.451533
+          }
+
+        ],
+        "imageWidth": 238,
+        "imageHeight": 212
+      }
+    ],
+    "extras": null
+  }
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F9.jpg?alt=media&token=7262a8f9-7452-4337-a248-358124cdc9a0",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.547810,
+            "y":0.208513
+          },
+          {
+            "x":0.402035,
+            "y":0.466231
+          }
+        ,
+          {
+            "x":0.589806,
+            "y":0.613615
+          }
+        ,
+          {
+            "x":0.683702,
+            "y":0.342769
+          }
+        ,
+          {
+            "x":0.313372,
+            "y":0.619026
+          }
+        ,
+          {
+            "x":0.652209,
+            "y":0.483231
+          }
+        ,
+          {
+            "x":0.656298,
+            "y":0.601282
+          }
+
+        ],
+        "imageWidth": 258,
+        "imageHeight": 195
+      }
+    ],
+    "extras": null
+  }
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F10.jpg?alt=media&token=3f721407-e68e-4af2-946f-c7e27000cc61",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.057875,
+            "y":0.500762
+          },
+          {
+            "x":0.169675,
+            "y":0.482262
+          }
+        ,
+          {
+            "x":0.250000,
+            "y":0.467587
+          }
+        ,
+          {
+            "x":0.273075,
+            "y":0.635025
+          }
+        ,
+          {
+            "x":0.189812,
+            "y": 0.546462
+          }
+        ,
+          {
+            "x":0.174300,
+            "y":0.575775
+          }
+        ,
+          {
+            "x":0.192825,
+            "y":0.605862
+          }
+        ,
+          {
+            "x":0.413500,
+            "y":0.575763
+          }
+        ,
+          {
+            "x":0.397375,
+            "y":0.665288
+          }
+        ,
+          {
+            "x":0.786963,
+            "y":0.485500
+          }
+        ,
+          {
+            "x":0.453700 ,
+            "y":0.821150
+          }
+
+
+        ],
+        "imageWidth": 400,
+        "imageHeight": 400
+      }
+    ],
+    "extras": null
+  }
+  {
+    "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F11.jpg?alt=media&token=d051db56-b2e1-4faf-b502-e873fbcf5530",
+    "annotation": [
+      {
+        "label": [
+          "blackheads"
+        ],
+        "notes": "",
+        "points": [
+          {
+            "x":0.405889,
+            "y":0.709311
+          },
+          {
+            "x":0.395198,
+            "y":0.367010
+          }
+        ,
+          {
+            "x":0.298999,
+            "y":0.414094
+          }
+        ,
+          {
+            "x":0.049416,
+            "y":0.212301
+          }
+        ,
+          {
+            "x":0.291516,
+            "y":0.592720
+          }
+        ,
+          {
+            "x": 0.082016,
+            "y":0.516488
+          }
+        ,
+          {
+            "x":0.075602,
+            "y":0.354304
+          }
+        ,
+          {
+            "x": 0.100721,
+            "y":0.241449
+          }
+        ,
+          {
+            "x":0.583324,
+            "y":0.364023
+          }
+        ,
+          {
+            "x": 0.629286,
+            "y":0.236218
+          }
+        ,
+          {
+            "x": 0.736706,
+            "y":0.154006
+          }
+        ,
+          {
+            "x": 0.572633,
+            "y":0.413349
+          }
+        ,
+          {
+            "x":0.411232,
+            "y":0.742944
+          }
+        ,
+          {
+            "x":0.393596,
+            "y":0.624112
+          }
+        ,
+          {
+            "x":0.301673,
+            "y":0.674933
+          }
+        ,
+          {
+            "x":0.332671,
+            "y":0.133825
+          }
+        ,
+          {
+            "x":0.490863,
+            "y": 0.565067
+          }
+        ,
+          {
+            "x":0.592410,
+            "y": 0.525455
+          }
+        ,
+          {
+            "x":0.395198,
+            "y": 0.563572
+          }
+        ,
+          {
+            "x":0.391458,
+            "y":0.435771
+          }
+        ,
+          {
+            "x":0.390922,
+            "y":0.291523
+          }
+        ,
+          {
+            "x":0.301673,
+            "y":0.185394
+          }
+        ,
+          {
+            "x":0.301673,
+            "y":0.185394
+          }
+        ,
+          {
+            "x":0.349771,
+            "y":0.031435
+          }
+        ,
+          {
+            "x":0.136529,
+            "y":0.020227
+          }
+        ,
+          {
+            "x":0.257313,
+            "y":0.754158
+          }
+        ,
+          {
+            "x":0.424058 ,
+            "y":0.650270
+          }
+        ,
+          {
+            "x":0.427265,
+            "y":0.570302
+          }
+        ,
+          {
+            "x":0.339617,
+            "y":0.716783
+          }
+        ,
+          {
+            "x":0.285640,
+            "y":0.529940
+          }
+        ,
+          {
+            "x":0.268002,
+            "y":0.366264
+          }
+        ,
+          {
+            "x":0.331067,
+            "y":0.186889
+          }
+        ,
+          {
+            "x":0.442230,
+            "y":0.738462
+          }
+        ,
+          {
+            "x":0.559271,
+            "y":0.583754
+          }
+        ,
+          {
+            "x":0.537362,
+            "y":0.546381
+          }
+        ,
+          {
+            "x":0.633560,
+            "y":0.393917
+          }
+        ,
+          {
+            "x":0.575307,
+            "y":0.228746
+          }
+        ,
+          {
+            "x":0.351374,
+            "y":0.686143
+          }
+        ,
+          {
+            "x":0.466813,
+            "y":0.739208
+          }
+        ,
+          {
+            "x":0.492468,
+            "y":0.741449
+          }
+        ,
+          {
+            "x":0.318776,
+            "y":0.310955
+          }
+        ,
+          {
+            "x":0.446506,
+            "y":0.204080
+          }
+        ,
+          {
+            "x":0.704106,
+            "y":0.360284
+          }
+        ,
+          {
+            "x":0.496742,
+            "y":0.665962
+          }
+        ,
+          {
+            "x":0.533619,
+            "y":0.609911
+          }
+        ,
+          {
+            "x":0.586529,
+            "y":0.648029
+          }
+        ,
+          {
+            "x":0.667230,
+            "y":0.544141
+          }
+        ,
+          {
+            "x":0.692349,
+            "y":0.409613
+          }
+        ,
+          {
+            "x":0.770912,
+            "y":0.355050
+          }
+        ,
+          {
+            "x":0.792824,
+            "y":0.300494
+          }
+        ,
+          {
+            "x":0.443832,
+            "y":0.440252
+          }
+        ,
+          {
+            "x":0.363134,
+            "y":0.504528
+          }
+        ,
+          {
+            "x":0.472692,
+            "y":0.614393
+          }
+        ,
+          {
+            "x":0.224177,
+            "y":0.665962
+          }
+        ,
+          {
+            "x":0.153095,
+            "y":0.438011
+          }
+        ,
+          {
+            "x":0.215627,
+            "y":0.404379
+          }
+        ,
+          {
+            "x":0.165924,
+            "y":0.418580
+          }
+        ,
+          {
+            "x":0.242349,
+            "y":0.597202
+          }
+        ,
+          {
+            "x":0.438487,
+            "y":0.591225
+          }
+        ,
+          {
+            "x":0.460401,
+            "y":0.680913
+          }
+        ,
+          {
+            "x":0.488725,
+            "y":0.719031
+          }
+        ,
+          {
+            "x":0.147219,
+            "y":0.099446
+          }
+        ,
+          {
+            "x":0.160576,
+            "y":0.053111
+          }
+        ,
+          {
+            "x":0.685934,
+            "y":0.457443
+          }
+        ,
+          {
+            "x":0.588134,
+            "y":0.739208
+          }
+        ,
+          {
+            "x":0.552859,
+            "y":0.509013
+          }
+        ,
+          {
+            "x":0.614855,
+            "y":0.535170
+          }
+        ,
+          {
+            "x":0.607374,
+            "y":0.012752
+          }
+        ,
+          {
+            "x":0.382372,
+            "y":0.751165
+          }
+        ,
+          {
+            "x":0.278154,
+            "y":0.766112
+          }
+        ],
+        "imageWidth": 1969,
+        "imageHeight": 1408
+      }
+    ],
+    "extras": null
+  }
+
+
