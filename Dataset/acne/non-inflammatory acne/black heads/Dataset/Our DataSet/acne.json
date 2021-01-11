@@ -1,0 +1,72 @@
+{
+  "content": "https://raw.githubusercontent.com/Mohamed-Elredeny/Facial-skin-diseases-dataset-/main/Dataset/acne/non-inflammatory%20acne/black%20heads/Dataset/images/0.jpg?token=AMMFEZLYRJWJS7ZVG2VQNHK77HELA",
+  "annotation": [
+    {
+      "label": [
+        "Tops"
+      ],
+      "notes": "",
+      "points": [
+        {
+          "x": 0.5054,
+          "y": 0.500925
+        }
+      ],
+      "imageWidth": 0.1466,
+      "imageHeight": 0.12345
+    }
+  ],
+  "extras": null
+}
+{
+  "content": "https://raw.githubusercontent.com/Mohamed-Elredeny/Facial-skin-diseases-dataset-/main/Dataset/acne/non-inflammatory%20acne/black%20heads/Dataset/images/1.png?token=AMMFEZMKW4QZKTMBYI5FMES77HE4O",
+  "annotation": [
+    {
+      "label": [
+        "Tops"
+      ],
+      "notes": "",
+      "points": [
+        {
+          "x": 0.440718,
+          "y":0.087641
+        },
+        {
+          "x":0.486141,
+          "y"0.517179:
+        },
+        {
+            "x":0.116641,
+            "y":0.476286 
+        },
+        {
+          "x":0.384205,
+          "y":0.379839
+        }
+        {
+          "x":0.256244,
+          "y":0.473179},
+        {
+             "x": 0.964218,
+             "y":0.581982 
+        },
+        {
+            "x": 0.734333
+            "y":0.666857 
+        },
+        {
+            "x":0.883897,
+            "y":0.956214 
+        },
+        {
+            "x":0.916577 ,
+            "y":0.954679 
+        }
+      
+      ],
+      "imageWidth": 0.877500,
+      "imageHeight":  0.086429
+    }
+  ],
+  "extras": null
+}
