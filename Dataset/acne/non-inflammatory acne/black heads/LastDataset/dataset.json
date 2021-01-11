@@ -748,3 +748,37 @@
   }
 
 
+
+
+  {
+  "content": "https://firebasestorage.googleapis.com/v0/b/facialskindiseases-7f368.appspot.com/o/acne%2Fblackheads%2F12.jpg?alt=media&token=51f38bdf-ee67-4615-a1fd-766de333d23a",
+  "annotation": [
+    {
+      "label": [
+        "blackheads"
+      ],
+      "notes": "",
+      "points": [
+        {
+          "x": 0.139410 ,
+          "y": 0.636786 
+        },
+        {
+          "x": 0.186077 ,
+          "y":0.587446 
+        },
+        {
+          "x":0.144244 ,
+          "y":0.775786 
+        },
+      ],
+      "imageWidth": 400,
+      "imageHeight": 400
+    }
+  ],
+  "extras": null
+}
+
+
+
+
