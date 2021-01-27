@@ -1,0 +1,6 @@
+0 blackheads
+1 whiteheads
+2 papules
+3 pustules
+4 nodules
+5 cyct
